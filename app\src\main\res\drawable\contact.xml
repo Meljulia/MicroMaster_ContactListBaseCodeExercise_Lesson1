@@ -1,0 +1,18 @@
+@ -0,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <contact>
+        <contact>
+            <name>John Smith</name>
+            <phone>1985-632-458</phone>
+            <mail>johnsmith@gmail.com</mail>
+        </contact>
+
+        <contact>
+            <name>Jane Doe</name>
+            <phone>123-456-7891</phone>
+            <mail>janedoe@gmail.com</mail>
+        </contact>
+
+</selector>
